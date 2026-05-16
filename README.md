@@ -1,48 +1,165 @@
-<div align= "center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+gyumani's+labortory!!!">
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💡Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 서비스 개발을 중요한 관점으로 봅니다.</li><li> 꾸준히 성장하는 개발자</li><li> 서비스를 고려하는 아키텍쳐 설계자</li> </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:atck1227@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:atck1227@gmail.com"> </a>
-          </div>
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Gyumani&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyumani&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<div align="center">
+
+# 👋 Hi, I'm Gyumin Jo
+
+### Reactive MSA Backend Engineer
+
+Kotlin · Spring Boot · WebFlux · Kafka · gRPC · Kubernetes
+
+서비스 구조와 운영 안정성을 함께 고민하는 백엔드 엔지니어입니다.
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🔭 모빌리티 플랫폼 기반 MSA 서비스 운영 및 개발
+
+- ⚡ Kotlin + Spring Boot 기반 Reactive Architecture 실무 경험
+
+- 🛰 Kafka / gRPC 기반 서비스 간 통신 및 이벤트 구조 설계
+
+- ☁ Kubernetes / Docker / ArgoCD 기반 운영 환경 경험
+
+- 🔍 Redis 최적화, N+1 제거, 성능 개선 및 장애 대응 경험
+
+- 🤖 AI 연계 구조 및 Spring AI 실험 진행 중
+
+- 🏃 러닝과 데이터 기반 서비스 개발에 관심
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![Spring WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+---
+
+## Infra & DevOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Vue.js](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 grpc-forward-util
+
+> gRPC Forwarding / Gateway Utility
+
+- 서비스 간 통신 구조를 실험하기 위한 gRPC Forwarding Utility
+
+- Gateway / Proxy 구조 및 확장성 실험
+
+- 단순 API 구현보다 서비스 연결 구조에 대한 이해를 목표로 개발
+
+🔗 https://github.com/gyumani/grpc-forward-util
+
+---
+
+## 🔹 ai_test
+
+> Spring AI & AI Integration Playground
+
+- Spring AI 기반 기능 실험 프로젝트
+
+- AI 연계 구조 및 서비스 활용 가능성 탐색
+
+- 새로운 기술 흐름을 빠르게 검증하기 위한 개인 실험 저장소
+
+🔗 https://github.com/gyumani/ai_test
+
+---
+
+## 🔹 pace_maker
+
+> Running Pace & Data Service
+
+- 러닝 데이터 기반 Pace 서비스
+
+- 사용자 흐름 및 데이터 기반 서비스 구조 실험
+
+- 취미와 개발을 연결한 사이드 프로젝트
+
+🔗 https://github.com/gyumani/pace_maker
+
+---
+
+# 📈 Engineering Interests
+
+- Reactive Architecture
+
+- Event Driven Architecture
+
+- MSA & Distributed Systems
+
+- Observability & Tracing
+
+- AI Integration
+
+- Performance Optimization
+
+- System Design
+
+---
+
+# 🧠 Core Strengths
+
+- Reactive 기반 MSA 설계 및 운영 경험
+
+- 복잡한 비즈니스 도메인 구조화 역량
+
+- 운영 안정화 및 트러블슈팅 능력
+
+- 서비스 통합 및 외부 연동 경험
+
+- 구조 중심의 자기주도 학습 능력
+
+---
+
+# 📫 Contact
+
+- 📧 atck1227@gmail.com
+
+- 🐙 https://github.com/gyumani
+
+- 🏃 https://pace-calculator-nine.vercel.app/
+
+---
+
+<div align="center">
+
+### “운영 가능한 시스템을 만드는 백엔드 엔지니어”
+
+</div>
